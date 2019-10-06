@@ -17,8 +17,8 @@ Laravel application for maintaing and for android API
   <ol>
     <li> >> composer install</li>
     <li>setup .env file and run >> php artisan key:generate </li>
-    <li>php artisan migrate</li>
-    <li>php artisan db:seed</li>
+    <li> >> php artisan migrate</li>
+    <li> >> php artisan db:seed</li>
   </ol>
   <li>go to login and name='admin' and password='secret'</li>
   <li>enjoy</li>
