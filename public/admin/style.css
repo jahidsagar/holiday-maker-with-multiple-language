@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#all-apps thead tr th {
+    text-align: center;
+}
+
+table {
+    background-color: transparent;
+    border: 2px solid #DDDDC0;
+    margin-top: 30px;
+}
+
+#all-apps thead tr th,
+#all-apps tr td {
+    border-right: 2px solid #ddd;
+}
+
+.cal-comb-btn {
+    margin-top: 50px;
+}
+
+.cal-comb h4 {
+    margin-bottom: 20px;
+}
+
+.navbar-default {
+    background-color: #F5F5F5;
+}
+
+table tbody tr:nth-child(even) {
+    background: #FFFFFF;
+}
+
+table tbody tr:nth-child(odd) {
+    background: #F5F5F5;
+}
+
+/* .list-group-item {
+    display: list-item;
+} */
+
+section#all-apps .fa {
+    font-size: 20px;
+}
+
+#add-languages {
+    background: #D0F1EF;
+}
+
